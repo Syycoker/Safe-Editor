@@ -1,5 +1,5 @@
 # Safe-Editor
-This is a project that allows multiple users to edit code in web-based editor. Our editor is an alternative to other real-time editors which we consider to be harmful. Safe-Editor adds an extra level of security by adding user permissions & Area locks to your project. 
+This is a project that allows multiple users to edit code in web-based editor. Our editor is an alternative to other real-time editors which we consider to be harmful and distracting. Safe-Editor adds an extra level of security by adding user permissions & Area locks to your project. 
 
 ## Completed
 - Nothing :(
