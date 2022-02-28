@@ -12,11 +12,12 @@ This is a project that allows multiple users to edit code in web-based editor. O
 ## Upcoming Features
 - File-locking
 - Area-locking
+- Implicit/Explicit access
 - Syntax-highlighting
 - Autocomplete (buffer-based)
 
 ## Proposals
-- Vim keybindings.
+- Vim keybindings
 - Chatroom (with permissions)
 - Git integration
 - Editor integrations(Atom, VSCode etc)
